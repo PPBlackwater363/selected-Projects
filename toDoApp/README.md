@@ -1,4 +1,4 @@
-# Assignment 9
+# toDo App
 
 In this assignment, we used Builder Pattern to build Commands. The Command factory method is quite complex, since we need to read in different type of parameters for each type of command, and need to read in csv file to build the ToDoItemList model. This Command Builder encapsulates the logic to determine which Command to build, and encapsulates specific parameters for different type of command.
 
